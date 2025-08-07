@@ -17,3 +17,9 @@ Whether you're a parent, teacher, or curious learner, Math Magic offers a joyful
 - CSS3
 - JavaScript (Vanilla)
 
+Preview
+<img width="1781" height="794" alt="Screenshot 2025-08-07 063749" src="https://github.com/user-attachments/assets/30655afb-2338-486b-ac30-36d9b6c9d14a" />
+
+<img width="1806" height="777" alt="Screenshot 2025-08-07 063812" src="https://github.com/user-attachments/assets/61074030-8834-4640-9d30-3c4b86015d74" />
+
+<img width="1737" height="747" alt="Screenshot 2025-08-07 063836" src="https://github.com/user-attachments/assets/a8858ee5-0f02-4d1d-a06f-8ca4a3db1c11" />
